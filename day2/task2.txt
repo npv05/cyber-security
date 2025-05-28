@@ -1,0 +1,16 @@
+1.SAMPLE PHISHING EMAIL SUMMARY:
+Sender Email:-accounts@firstgenericbank.com
+Subject:-Please update your account information
+Date received:-Sep 12, 2008 3:23 PM PST
+Breif Description:-regular account information verification processes. During the most recent process, we found that we could not verify your information.
+
+2.ANALYSIS OF PHISHING INDICATORS:
+    a.Senders Address:-accounts@firstgenericbank(Spoofed Address as it doesnt have a proffessional mail ID)
+    b.Headers Analysis:-IP address unknown region as it doesnt match "returns path"
+    c.Suspicious Link:- http://www.firstgenericbank.com.account-updateinfo.com (doesnt contain https and a forged Link)
+    d.attachments:- Nill
+  
+3.TOOLS USED:
+    MX TOOLBOX FOR HEADER INFORMATION
+    >VIRUSTOTAL TO SCAN SUSPICIOUS URLS AND ATTACHMENTS
+    >MANUAL INSPECTION LIKE HOVERING  LINKS,GRAMMATICAL ERRORS,VERIFYING SENDER
