@@ -1,0 +1,27 @@
+EXTENSIONS ON MY GOOGLE CHROME(BROWSER):
+
+1. Google Docs Offline : Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.
+	size: less than 1MB
+	version: 1.92.1
+	permissions: google docs
+		     google drive
+	source: installed by default
+2. Postlight Reader : browser extension that removes ads and distractions, leaving only text and images for a beautiful reading view on any site.
+	size: 9.9MB
+	version: 11
+	permissions: reading browsing history
+	source: Chrome Web Store
+3. uBlock Origin : free and open-source browser extension for content filtering, including ad blocking.
+	size: 13.6MB
+	version: 1.64.0
+	permissions: reading browsing history
+		     change privacy-related settings
+	source: Chrome Web Store
+
+* NO SUCH UNNECESSARY OR SUSPICIOUS EXTENSIONS *
+
+HOW CAN MALICIOUS EXTENSIONS HARM USERS:
+1. Steals data
+2. Installs malware
+3. Disrupting online activities
+4. Hijack browsing experience
